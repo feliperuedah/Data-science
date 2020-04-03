@@ -1,4 +1,4 @@
-# Data science portfolio
+# Felipe Rueda Hernández: Portfolio
 Proyectos de análisis de datos
 
 ## SQL
