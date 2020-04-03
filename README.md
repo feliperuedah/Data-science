@@ -1,4 +1,4 @@
-# Felipe Rueda Hernández: Portfolio
+# Felipe Rueda Hernández
 Proyectos de análisis de datos
 
 ## SQL
