@@ -7,6 +7,7 @@ Proyectos de análisis de datos
 ### Machine Learning
 - [SMS Spam classifier con Naive Bayes](https://github.com/feliperuedah/Data-science/blob/master/spam_classifier.ipynb)
 - [Predicción de precios de carros usando K-NN](https://github.com/feliperuedah/Data-science/blob/master/car_prices.ipynb)
+
 ### Análisis y visualización
 - [Análisis y visualización de datos: Pedidos de comida india](https://www.kaggle.com/feliperuedah/analysing-indian-takeaway-food-orders)
 - [Mercados para anunciar publicidad sobre cursos en programación](https://github.com/feliperuedah/Data-science/blob/master/coding_markets.ipynb)
