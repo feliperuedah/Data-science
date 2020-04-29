@@ -6,6 +6,7 @@ Proyectos de análisis de datos
 ## Python
 ### Machine Learning
 - [SMS Spam classifier con Naive Bayes](https://github.com/feliperuedah/Data-science/blob/master/spam_classifier.ipynb)
+- [Clasificación de ingresos: Regresión logística con Scikit-learn](https://www.kaggle.com/feliperuedah/clasificando-ingresos-con-regresi-n-log-stica)
 - [Predicción de precios de carros usando K-NN](https://github.com/feliperuedah/Data-science/blob/master/car_prices.ipynb)
 
 ### Análisis y visualización
